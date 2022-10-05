@@ -1,7 +1,7 @@
 import yfinance as yf
 import datetime 
 today = datetime.datetime.today().isoformat()
-#comment 
+#comment 2
 date_object = datetime.date.today()
 print('hi')
 def yfinance_performance_indicator(Tickersymbol):

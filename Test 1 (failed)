@@ -11,7 +11,7 @@ def yfinance_performance_indicator(Tickersymbol):
     tickerinfo = tickerdata.info
     try:
         tickername = tickerinfo['symbol']
-    
+    #hellooo
 	
         today = datetime.datetime.today().isoformat()
 	
